@@ -1,2 +1,3 @@
-# types
-type helpers for go
+# convert
+
+type conversions for go
